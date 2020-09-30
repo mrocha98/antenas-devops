@@ -22,7 +22,7 @@ Back-end: <https://github.com/mrocha98/antenas-back>
 
 ## Road Map
 
-![ilustração do road map](.github/images/rodamap.png)
+![ilustração do road map](.github/images/roadmap.jpeg)
 
 ## Entregas
 
