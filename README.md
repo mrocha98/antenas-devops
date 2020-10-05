@@ -65,8 +65,8 @@ Banco de dados em nuvem para MongoDB. A ferramenta foi escolhida por estar dispo
 
 ### Sprint 01 – 20/09/2020
 - Deploy do Frontend e Backend: disponibilizar aplicação em ambiente remoto na [AWS EC2] (https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc) ;
-- [Configuração do arquivo Docker-compose]: integrar MongoDB e NodeJs para utilizar em ambiente de desenvolvimento; e (https://github.com/mrocha98/antenas-back/blob/master/docker-compose.yml) para utilizarmos em desenvolvimento
-- Criação do banco em nuvem:  disponibilizar a base de dados em ambiente remoto, no [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) .
+- [Configuração do arquivo Docker-compose] : integrar MongoDB e NodeJs para utilizar em ambiente de desenvolvimento; e (https://github.com/mrocha98/antenas-back/blob/master/docker-compose.yml) para utilizarmos em desenvolvimento
+- Criação do banco em nuvem:  disponibilizar a base de dados em ambiente remoto, no [MongoDB Atlas] (https://www.mongodb.com/cloud/atlas) .
 
 ### Sprint 02 – 04/10/2020
 - Testes unitários: utilizado para verificar a menor parte testável da aplicação, garantindo que o software esteja de acordo com as regras de negócio, minimizando o retrabalho e tornando as correções mais ágeis.
