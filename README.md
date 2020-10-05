@@ -2,31 +2,30 @@
 Este repositório é utilizado para compartilhar as entregas para a disciplina de Laboratório de Projeto de Bando de Dados V, ministrada pelo professor Eduardo Sakaue. 
 O objetivo do projeto é implementar um conjunto de melhores práticas de desenvolvimento de software (Dev) e operações de TI (Ops), DevOps para disponibilizar a aplicação web Antenas.
 
-##O que é o Projeto Antenas
+## O que é o Projeto Antenas
 Projeto desenvolvido pelos alunos da FATEC - Professor Jessen Vidal, para a matéria Padrões de Projeto, ministrada pelo Professor Giuliano. 
 O software é uma iniciativa para aproximar os alunos das necessidades do mercado de trabalho. Consiste em uma aplicação web onde empresas da área de tecnologia propõem desafios, o conteúdo é avaliado pelos professores da Fatec e então enviado para que os alunos proponham soluções. 
 
 ## Equipe:
-Bruno Akira Ota;
-Gabriel Pereira Bastos;
-Leticia Macedo Prudente de Carvalho;
-Matheus Rocha da Silva;
-Thaís Bitencourt de Meneses;
-Vanessa Bessa Diogenes Castellano; e
-Yan Rodrigues de Azevedo.
+- Bruno Akira Ota;
+- Gabriel Pereira Bastos;
+- Leticia Macedo Prudente de Carvalho;
+- Matheus Rocha da Silva;
+- Thaís Bitencourt de Meneses;
+- Vanessa Bessa Diogenes Castellano; e
+- Yan Rodrigues de Azevedo.
 
 
 
-##Repositórios:
-
+## Repositórios:
 Front-end: <https://github.com/mrocha98/antenas-front>
 
 Back-end: <https://github.com/mrocha98/antenas-back>
 
-##Acesso à aplicação:
+## Acesso à aplicação:
 http://18.231.13.0:3000/
 
-##Acesso para desenvolvimento:
+## Acesso para desenvolvimento:
 É necessário instalar o docker:
 https://docs.docker.com/get-docker/
 https://docs.docker.com/compose/install/
@@ -38,7 +37,7 @@ E utilizar uma IDE para visualizar o código; recomendamos o VSCode:
 https://code.visualstudio.com 
 
 
-##Tecnologias:
+## Tecnologias:
 
 ### AWS (EC2)
 Utilizado para hospedar e disponibilizar o software online para o cliente. Escolhemos a plataforma pela popularidade, por conta da escalabilidade de servidores e pela fácil integração com os demais serviços que a empresa oferece.
@@ -65,7 +64,6 @@ Banco de dados em nuvem para MongoDB. A ferramenta foi escolhida por estar dispo
 ## Entregas
 
 ### Sprint 01 – 20/09/2020
-
 - Deploy do Frontend e Backend: disponibilizar aplicação em ambiente remoto na [AWS EC2] (https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc) ;
 - [Configuração do arquivo Docker-compose]: integrar MongoDB e NodeJs para utilizar em ambiente de desenvolvimento; e (https://github.com/mrocha98/antenas-back/blob/master/docker-compose.yml) para utilizarmos em desenvolvimento
 - Criação do banco em nuvem:  disponibilizar a base de dados em ambiente remoto, no [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) .
