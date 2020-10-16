@@ -57,6 +57,9 @@ Framework de testes automatizados end-to-end usando JavaScript, utilizada para r
 ### MongoDB Atlas
 Banco de dados em nuvem para MongoDB. A ferramenta foi escolhida por estar disponível via web e porque a infraestrutura, manutenção das máquinas e segurança não precisam de configuração manual.
 
+### Zabbix
+Uma ferramenta de software de monitoramento de código aberto para diversos componentes de TI, incluindo redes, servidores, máquinas virtuais e serviços em nuvem. O Zabbix fornece métricas de monitoramento, entre outras, utilização da rede, carga da CPU e consumo de espaço em disco.
+
 ## Road Map
 
 ![ilustração do road map](.github/images/roadmap.jpeg)
@@ -74,8 +77,8 @@ Banco de dados em nuvem para MongoDB. A ferramenta foi escolhida por estar dispo
 
 
 ### Sprint 03 – 18/10/2020
-- Divisão dos ambientes em homologação/desenvolvimento, QA/Testes e Produção;
-- Integração da ferramenta de monitoramento Zabbix para gerar logs; e
+- Divisão dos ambientes em homologação/desenvolvimento, QA/Testes e Produção: Essa divisão se faz necessária para que nenhuma funcionalidade seja desenvolvida e/ou testada no ambiente de produção e assim blindar o ambiente do cliente de qualquer problema. Essa divisão também é benéfica para que os desenvolvedores e testes saibam que o ambiente que estão utilizando se encontra da melhor forma possível;
+- Integração da ferramenta de monitoramento Zabbix para gerar logs: A geração de logs é importante para que possamos avaliar onde pode estar ocorrendo algum erro ou fazer o monitoramento do sistema para que se caso haja algum erro, seja possível identificar de forma rápida e precisa para uma correção mais acertiva; e
 - Deploy automático.
 
 
