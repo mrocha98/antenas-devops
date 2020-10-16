@@ -77,8 +77,8 @@ Uma ferramenta de software de monitoramento de código aberto para diversos comp
 
 
 ### Sprint 03 – 18/10/2020
-- Divisão dos ambientes em homologação/desenvolvimento, QA/Testes e Produção: Essa divisão se faz necessária para que nenhuma funcionalidade seja desenvolvida e/ou testada no ambiente de produção e assim blindar o ambiente do cliente de qualquer problema. Essa divisão também é benéfica para que os desenvolvedores e testes saibam que o ambiente que estão utilizando se encontra da melhor forma possível;
-- Integração da ferramenta de monitoramento Zabbix para gerar logs: A geração de logs é importante para que possamos avaliar onde pode estar ocorrendo algum erro ou fazer o monitoramento do sistema para que se caso haja algum erro, seja possível identificar de forma rápida e precisa para uma correção mais acertiva; e
+- Divisão dos ambientes em homologação/desenvolvimento, QA/Testes e Produção: Essa divisão se faz necessária para que nenhuma funcionalidade seja desenvolvida e/ou testada no ambiente de produção e assim blindar o ambiente do cliente de qualquer problema. Essa divisão também é benéfica para que os desenvolvedores e testes saibam que o ambiente que estão utilizando se encontra da melhor forma possível.
+- Integração da ferramenta de monitoramento Zabbix para gerar logs: A geração de logs é importante para que possamos avaliar onde pode estar ocorrendo algum erro ou fazer o monitoramento do sistema para que se caso haja algum erro, seja possível identificar de forma rápida e precisa para uma correção mais acertiva.
 - Deploy automático.
 
 
