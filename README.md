@@ -23,7 +23,11 @@ Front-end: <https://github.com/mrocha98/antenas-front>
 Back-end: <https://github.com/mrocha98/antenas-back>
 
 ## Acesso à aplicação:
-http://18.231.13.0:3000/
+Servidor de Sesenvolvimento: http://antenas-front.herokuapp.com/
+
+Servidor de QA: http://ec2-3-138-123-144.us-east-2.compute.amazonaws.com/
+
+Servidor de Produção: http://ec2-54-227-71-122.compute-1.amazonaws.com/
 
 ## Acesso para desenvolvimento:
 É necessário instalar o docker:
@@ -67,9 +71,9 @@ Uma ferramenta de software de monitoramento de código aberto para diversos comp
 ## Entregas
 
 ### Sprint 01 – 20/09/2020
-- Deploy do Frontend e Backend: disponibilizar aplicação em ambiente remoto na [AWS EC2](https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc) ;
-- [Configuração do arquivo Docker-compose](https://github.com/mrocha98/antenas-back/blob/master/docker-compose.yml) : integrar MongoDB e NodeJs para utilizar em ambiente de desenvolvimento; e para utilizarmos em desenvolvimento
-- Criação do banco em nuvem:  disponibilizar a base de dados em ambiente remoto, no [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) .
+- Deploy do Frontend e Backend: disponibilizar aplicação em ambiente remoto na [AWS EC2](https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc).
+- [Configuração do arquivo Docker-compose](https://github.com/mrocha98/antenas-back/blob/master/docker-compose.yml) : integrar MongoDB e NodeJs para utilizar em ambiente de desenvolvimento; e para utilizarmos em desenvolvimento.
+- Criação do banco em nuvem:  disponibilizar a base de dados em ambiente remoto, no [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).
 
 ### Sprint 02 – 04/10/2020
 - Testes unitários: utilizado para verificar a menor parte testável da aplicação, garantindo que o software esteja de acordo com as regras de negócio, minimizando o retrabalho e tornando as correções mais ágeis.
@@ -77,24 +81,25 @@ Uma ferramenta de software de monitoramento de código aberto para diversos comp
 
 
 ### Sprint 03 – 18/10/2020
-- Divisão dos ambientes em homologação/desenvolvimento, QA/Testes e Produção: Essa divisão se faz necessária para que nenhuma funcionalidade seja desenvolvida e/ou testada no ambiente de produção e assim blindar o ambiente do cliente de qualquer problema. Essa divisão também é benéfica para que os desenvolvedores e testes saibam que o ambiente que estão utilizando se encontra da melhor forma possível.
-- Integração da ferramenta de monitoramento Zabbix para gerar logs: A geração de logs é importante para que possamos avaliar onde pode estar ocorrendo algum erro ou fazer o monitoramento do sistema para que se caso haja algum erro, seja possível identificar de forma rápida e precisa para uma correção mais acertiva.
-- Deploy automático.
+- Divisão de Ambientes: Criação de ambientes isolados para desenvolvimento, testes e produção. Necessário para não impactar o cliente final durante o periodo de desenvolvimento (de correções e/ou novas funcionalidade) e período de testes. A separação garante à equipe de desenvolvimento liberdade para implementar e explorar sem riscos de impacto no cliente final, à equipe de testes a integridade do ambiente durante a execução dos testes, e ao cliente final uma base de produção limpa e segura, e sem interrupção durante o processo de entrega da funcionalidade.
+- Deploy Automático: Processo que controla as alterações enviadas para as branchs alteradas. A aplicação possui 3 ambientes atualmente, desenvolvimento, testes e produção, o deploy automático se encarrega de executar uma bateria de testes pré definida sobre cada commit enviado para a branch antes de permitir que esse seja efetivamente enviado para o respectivo servidor.
+
 
 
 ### Sprint 04 – 01/11/2020
-- Testes de integração automatizado; e
+- Integração da ferramenta de monitoramento Zabbix para gerar logs: A geração de logs é importante para que possamos avaliar onde pode estar ocorrendo algum erro ou fazer o monitoramento do sistema para que se caso haja algum erro, seja possível identificar de forma rápida e precisa para uma correção mais acertiva.
 - Implementação do load balance.
 
 
 
 ### Sprint 05 – 15/11/2020
-- Testes de carga; e
+- Testes de integração.
 - Testes E2E (end-to-end) automatizado.
 
 
 ### Sprint 06 – 29/11/2020
-- Documentação de funcionalidades para usuários 
-- Vídeo de apresentação que será apresentado na feira de soluções. 
+- Documentação de funcionalidades para usuários.
+- Vídeo de apresentação que será apresentado na feira de soluções.
+- Testes de carga.
 
 
