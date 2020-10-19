@@ -23,7 +23,7 @@ Front-end: <https://github.com/mrocha98/antenas-front>
 Back-end: <https://github.com/mrocha98/antenas-back>
 
 ## Acesso à aplicação:
-Servidor de Sesenvolvimento: http://antenas-front.herokuapp.com/
+Servidor de Desenvolvimento: http://antenas-front.herokuapp.com/
 
 Servidor de QA: http://ec2-3-138-123-144.us-east-2.compute.amazonaws.com/
 
@@ -81,7 +81,7 @@ Uma ferramenta de software de monitoramento de código aberto para diversos comp
 
 
 ### Sprint 03 – 18/10/2020
-- Divisão de Ambientes: Criação de ambientes isolados para desenvolvimento, testes e produção. Necessário para não impactar o cliente final durante o periodo de desenvolvimento (de correções e/ou novas funcionalidade) e período de testes. A separação garante à equipe de desenvolvimento liberdade para implementar e explorar sem riscos de impacto no cliente final, à equipe de testes a integridade do ambiente durante a execução dos testes, e ao cliente final uma base de produção limpa e segura, e sem interrupção durante o processo de entrega da funcionalidade.
+- Divisão de Ambientes: Criação de ambientes isolados para desenvolvimento, testes e produção. Necessário para não impactar o cliente final durante o período de desenvolvimento (de correções e/ou novas funcionalidades) e período de testes. A separação garante à equipe de desenvolvimento liberdade para implementar e explorar sem riscos de impacto no cliente final, à equipe de testes a integridade do ambiente durante a execução dos testes, e ao cliente final uma base de produção limpa e segura, e sem interrupção durante o processo de entrega das funcionalidades.
 - Deploy Automático: Processo que controla as alterações enviadas para as branchs alteradas. A aplicação possui 3 ambientes atualmente, desenvolvimento, testes e produção, o deploy automático se encarrega de executar uma bateria de testes pré definida sobre cada commit enviado para a branch antes de permitir que esse seja efetivamente enviado para o respectivo servidor.
 
 
