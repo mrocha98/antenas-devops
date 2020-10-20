@@ -7,13 +7,13 @@ Projeto desenvolvido pelos alunos da FATEC - Professor Jessen Vidal, para a mat�
 O software é uma iniciativa para aproximar os alunos das necessidades do mercado de trabalho. Consiste em uma aplicação web onde empresas da área de tecnologia propõem desafios, o conteúdo é avaliado pelos professores da Fatec e então enviado para que os alunos proponham soluções. 
 
 ## Equipe:
-- Bruno Akira Ota;
-- Carlos Henrique Monteiro Neto;
-- Leticia Macedo Prudente de Carvalho;
-- Matheus Rocha da Silva;
-- Thaís Bitencourt de Meneses;
-- Vanessa Bessa Diogenes Castellano; e
-- Yan Rodrigues de Azevedo.
+- Bruno Akira Ota
+- Carlos Henrique Monteiro Neto
+- Leticia Macedo Prudente de Carvalho
+- Matheus Rocha da Silva
+- Thaís Bitencourt de Meneses
+- Vanessa Bessa Diogenes Castellano
+- Yan Rodrigues de Azevedo
 
 
 
