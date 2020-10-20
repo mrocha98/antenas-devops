@@ -8,7 +8,7 @@ O software é uma iniciativa para aproximar os alunos das necessidades do mercad
 
 ## Equipe:
 - Bruno Akira Ota;
-- Gabriel Pereira Bastos;
+- Carlos Henrique Monteiro Neto;
 - Leticia Macedo Prudente de Carvalho;
 - Matheus Rocha da Silva;
 - Thaís Bitencourt de Meneses;
