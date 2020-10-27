@@ -41,7 +41,7 @@ O software é uma iniciativa para aproximar os alunos das necessidades do mercad
 - Bruno Akira Ota
 - Carlos Henrique Monteiro Neto
 - Leticia Macedo Prudente de Carvalho
-- Matheus Rocha da Silva
+- [Matheus Rocha da Silva](https://www.linkedin.com/in/matheus-rocha-da-silva-b8504a1a5/)
 - Thaís Bitencourt de Meneses
 - Vanessa Bessa Diogenes Castellano
 - Yan Rodrigues de Azevedo
