@@ -119,8 +119,8 @@ Uma ferramenta de software de monitoramento de código aberto para diversos comp
 
 ### Sprint 04 – 01/11/2020
 
-- Integração da ferramenta de monitoramento Zabbix para gerar logs: A geração de logs é importante para que possamos avaliar onde pode estar ocorrendo algum erro ou fazer o monitoramento do sistema para que se caso haja algum erro, seja possível identificar de forma rápida e precisa para uma correção mais acertiva.
-- Implementação do load balance.
+- Integração da ferramenta de monitoramento Zabbix para gerar logs: A geração de logs é importante para que possamos avaliar o sistema e fazer o monitoramento para que no  caso de o sistema lançar algum erro, seja possível identificar de forma rápida e precisa e assim tratar o problema com uma correção mais acertiva.
+- Load Balancer: Distribui o tráfego de entrada do aplicativo por várias instâncias EC2 em diversas Zonas de disponibilidade. Isso aumenta a tolerância a falhas dos aplicativos. O load balancer serve como ponto único de contato para os clientes, isso aumenta a disponibilidade da aplicação. É possível adicionar e remover instâncias do load balancer conforme mudarem as necessidades, sem perturbar o fluxo geral de solicitações para sua aplicação. 
 
 ### Sprint 05 – 15/11/2020
 
