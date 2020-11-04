@@ -97,7 +97,7 @@ Uma ferramenta de software de monitoramento de código aberto para diversos comp
 
 ## Road Map
 
-![ilustração do road map](.github/images/roadmap.jpeg)
+![ilustração do road map](.github/images/RoadMap.jpeg)
 
 ## Entregas
 
