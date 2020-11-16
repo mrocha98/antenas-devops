@@ -52,6 +52,8 @@ Front-end: <https://github.com/mrocha98/antenas-front>
 
 Back-end: <https://github.com/mrocha98/antenas-back>
 
+Teste Automatizado: <https://github.com/Baota2/Antenas_Robot>
+
 ## Acesso à aplicação
 
 Servidor de Desenvolvimento: <http://antenas-front.herokuapp.com/>
@@ -126,8 +128,8 @@ Link para Download do video de apresentação da sprint: https://drive.google.co
 
 ### Sprint 05 – 15/11/2020
 
-- Testes de integração.
-- Testes E2E (end-to-end) automatizado.
+- Testes de integração: Teste de integração é a fase do teste de software em que módulos são combinados e testados em grupo. Ela sucede o teste de unidade, em que os módulos são testados individualmente, e antecede o teste de sistema, em que o sistema completo é testado num ambiente que simula o ambiente de produção
+- Testes E2E (end-to-end) automatizado: Testes utilizando Selenium WebDriver e Robot Framework. Esse tipo de teste visa o fluxo completo da aplicação de forma automatizada reduzindo o tempo de execução.
 
 ### Sprint 06 – 29/11/2020
 
