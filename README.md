@@ -85,9 +85,9 @@ Utilizado para criar imagem do mongobd para que a infraestrutura não precise se
 
 Estrutura de teste de JavaScript, utilizada para fazer testes unitários e garantir que a aplicação está funcionando de acordo com os requisitos do negócio. Foi escolhido por ser open source, não necessitar configuração manual, possuir relatório de código de fácil acesso e pela velocidade, pois roda testes em paralelo.
 
-### Cypress
+### Robot Framework
 
-Framework de testes automatizados end-to-end usando JavaScript, utilizada para refletir as ações dos usuários. A ferramenta foi escolhida por ser open source, possuir recarga em tempo real, espera automática e ser responsivo com aplicações da web.
+O Robot Framework é uma estrutura genérica de automação de teste para testes de aceitação e desenvolvimento orientado a testes de aceitação. É uma estrutura de teste orientada por palavras-chave que usa a sintaxe tabular dos dados de teste.
 
 ### MongoDB Atlas
 
