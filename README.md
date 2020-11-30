@@ -19,7 +19,7 @@ O objetivo do projeto é implementar um conjunto de melhores práticas de desenv
     - [GitHub](#github)
     - [Docker-compose](#docker-compose)
     - [Jest](#jest)
-    - [Cypress](#cypress)
+    - [Robot Framework](https://robotframework.org)
     - [MongoDB Atlas](#mongodb-atlas)
     - [Zabbix](#zabbix)
   - [Road Map](#road-map)
@@ -38,13 +38,13 @@ O software é uma iniciativa para aproximar os alunos das necessidades do mercad
 
 ## Equipe
 
-- Bruno Akira Ota
-- Carlos Henrique Monteiro Neto
-- Leticia Macedo Prudente de Carvalho
+- [Bruno Akira Ota](https://www.linkedin.com/in/bruno-akira-ota-32a29744/)
+- [Carlos Henrique Monteiro Neto](https://www.linkedin.com/in/carlos-henrique-monteiro-neto-b62a0413a)
+- [Leticia Macedo Prudente de Carvalho](https://www.linkedin.com/mwlite/in/leticia-macedo-prudente-de-carvalho-a0413416a)
 - [Matheus Rocha da Silva](https://www.linkedin.com/in/matheus-rocha-da-silva-b8504a1a5/)
-- Thaís Bitencourt de Meneses
-- Vanessa Bessa Diogenes Castellano
-- Yan Rodrigues de Azevedo
+- [Thaís Bitencourt de Meneses](https://www.linkedin.com/in/thaisbitencourt/)
+- [Vanessa Bessa Diogenes Castellano](https://www.linkedin.com/in/vanessa-bessa)
+- [Yan Rodrigues de Azevedo](https://www.linkedin.com/in/yan-rodrigues)
 
 ## Repositórios
 
@@ -58,7 +58,7 @@ Teste Automatizado: <https://github.com/Baota2/Antenas_Robot>
 
 Servidor de Desenvolvimento: <http://antenas-front.herokuapp.com/>
 
-Servidor de QA: <http://ec2-3-138-123-144.us-east-2.compute.amazonaws.com/>
+Servidor de QA: <http://ec2-3-138-134-237.us-east-2.compute.amazonaws.com/>
 
 Servidor de Produção: <http://ec2-34-230-78-226.compute-1.amazonaws.com>
 
