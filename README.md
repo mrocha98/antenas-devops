@@ -54,6 +54,8 @@ Back-end: <https://github.com/mrocha98/antenas-back>
 
 Teste Automatizado: <https://github.com/Baota2/Antenas_Robot>
 
+Guia do Usuário: <https://github.com/mrocha98/antenas-devops/wiki>
+
 ## Acesso à aplicação
 
 Servidor de Desenvolvimento: <http://antenas-front.herokuapp.com/>
