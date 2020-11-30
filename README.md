@@ -39,7 +39,7 @@ O software é uma iniciativa para aproximar os alunos das necessidades do mercad
 ## Equipe
 
 - [Bruno Akira Ota](https://www.linkedin.com/in/bruno-akira-ota-32a29744/)
-- [Carlos Henrique Monteiro Neto](https://www.linkedin.com/in/carlos-henrique-monteiro-neto-b62a0413a)
+- Carlos Henrique Monteiro Neto
 - [Leticia Macedo Prudente de Carvalho](https://www.linkedin.com/mwlite/in/leticia-macedo-prudente-de-carvalho-a0413416a)
 - [Matheus Rocha da Silva](https://www.linkedin.com/in/matheus-rocha-da-silva-b8504a1a5/)
 - [Thaís Bitencourt de Meneses](https://www.linkedin.com/in/thaisbitencourt/)
