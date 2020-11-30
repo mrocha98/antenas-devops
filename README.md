@@ -62,7 +62,7 @@ Servidor de Desenvolvimento: <http://antenas-front.herokuapp.com/>
 
 Servidor de QA: <http://ec2-3-138-134-237.us-east-2.compute.amazonaws.com/>
 
-Servidor de Produção: <http://ec2-34-230-78-226.compute-1.amazonaws.com>
+Servidor de Produção: <http://ec2-54-226-210-129.compute-1.amazonaws.com>
 
 ## Configuração do ambiente de desenvolvimento
 
